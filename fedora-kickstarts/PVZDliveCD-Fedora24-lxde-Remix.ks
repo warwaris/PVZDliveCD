@@ -84,7 +84,7 @@ glibc-all-langpacks
 @networkmanager-submodules
 
 midori
-system-config-network
+#system-config-network
 
 #Docker
 docker-engine
